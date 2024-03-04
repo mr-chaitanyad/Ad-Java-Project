@@ -1,0 +1,15 @@
+Chaitanya Dhayarkar System
+
+|============================|
+|++++++++++Bus Ticket++++++++|
+|============================|
+
+Passenger ID:		1005
+
+Passenger Name:		Ramesh
+
+Passenger Stop:		Stop 1
+
+Passenger Destination:	Stop 6
+
+Rupees:               	$9
